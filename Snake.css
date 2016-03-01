@@ -1,0 +1,33 @@
+#page-wrap{
+	text-align: center;
+	width: 100%;
+}
+
+canvas{
+	margin-left: auto;
+	margin-right: auto;
+	width: 450px;
+}
+
+.frame{
+	background: #7ED891;
+	margin: 10px auto;
+	width: 450px;
+	font-family: Impact;
+	color: #D35546;
+	font-size: 2em;
+}
+
+span{
+	font-family: Impact;
+}
+
+#level{
+	text-align: left;
+}
+#score{
+	text-align: center;
+}
+#highScore{
+	text-align: right;
+}
